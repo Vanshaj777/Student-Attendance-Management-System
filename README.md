@@ -326,3 +326,17 @@ VIT Bhopal University
 5.  IntelliJ IDEA Documentation
 6.  VIT Bhopal University Programming in Java course/project guidelines
 7.  VITyarthi Build Your Own Project guidelines
+
+##Screenshots
+<img width="452" height="307" alt="Screenshot 2026-09-17 120550" src="https://github.com/user-attachments/assets/835643f8-6fd4-49b6-9d6b-8952145d6ce8" />
+<img width="353" height="229" alt="Screenshot 2026-09-17 120643" src="https://github.com/user-attachments/assets/6ff9d73e-215f-42a8-b41e-bf756eacb56d" />
+<img width="358" height="235" alt="Screenshot 2026-09-17 120648" src="https://github.com/user-attachments/assets/aa492c59-1831-4f5b-810f-6310961ab4f6" />
+<img width="357" height="287" alt="Screenshot 2026-09-17 120716" src="https://github.com/user-attachments/assets/72231a80-f5a7-45a8-ad8d-f291b6ad12da" />
+<img width="341" height="260" alt="Screenshot 2026-09-17 120745" src="https://github.com/user-attachments/assets/a3442f4f-1781-4227-9d70-7bada1c63edc" />
+<img width="388" height="294" alt="Screenshot 2026-09-17 120807" src="https://github.com/user-attachments/assets/a8569ad6-db83-4353-9991-95f79d113405" />
+
+
+
+
+
+
